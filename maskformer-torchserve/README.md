@@ -87,7 +87,7 @@ Curl the model inference API.
 
 ```bash
 
-curl -v "http://localhost:8080/predictions/bloom" -T sample_url.txt
+curl -v "http://localhost:8080/predictions/maskformer" -T sample_url.txt
 
 ```
 
